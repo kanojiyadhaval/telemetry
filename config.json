@@ -1,0 +1,4 @@
+{
+    "driver_type": "json",
+    "file_path": "./logs/log.json"
+}
