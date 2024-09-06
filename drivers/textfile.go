@@ -3,8 +3,9 @@ package drivers
 import (
 	"fmt"
 	"os"
-	"telemetry"
 	"time"
+
+	"github.com/kanojiyadhaval/telemetry"
 )
 
 type TextFile struct {

@@ -4,7 +4,8 @@ import (
 	"encoding/json"
 	"fmt"
 	"os"
-	"telemetry"
+
+	"github.com/kanojiyadhaval/telemetry"
 )
 
 type JSONFile struct {

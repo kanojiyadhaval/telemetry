@@ -1,8 +1,9 @@
 package telemetry
 
 import (
-	"telemetry/drivers"
 	"testing"
+
+	"github.com/kanojiyadhaval/telemetry/drivers"
 )
 
 func TestTelemetryLog(t *testing.T) {

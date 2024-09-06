@@ -2,8 +2,9 @@ package drivers
 
 import (
 	"fmt"
-	"telemetry"
 	"time"
+
+	"github.com/kanojiyadhaval/telemetry"
 )
 
 // CLI is a logger implementation that logs to the console
